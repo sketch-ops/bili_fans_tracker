@@ -4,11 +4,11 @@
     "face": "https://i2.hdslb.com/bfs/face/398f9b8545c4ad920837d9fe2e2e92cb46023b56.jpg",
     "sign": "带你一起沉浸体验虚拟世界游戏体验;亲身体验游戏风趣刺激，游戏玩不停",
     "level": 4,
-    "archive_count": 4872,
+    "archive_count": 4873,
     "like_num": 25467,
     "following": 31,
     "official_title": "",
-    "updated": "2026-11-16T11:14:16.241Z"
+    "updated": "2026-11-17T14:22:14.245Z"
   },
   "records": [
     {
@@ -3182,6 +3182,10 @@
     {
       "time": "2026-11-17T04:28:10.420Z",
       "fans": 10919
+    },
+    {
+      "time": "2026-11-17T14:22:12.178Z",
+      "fans": 10918
     }
   ]
 }
